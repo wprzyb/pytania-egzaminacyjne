@@ -96,9 +96,10 @@
 
 <script>
     Promise.all([
-        d3.csv("dzial2a.csv"),
+        d3.csv("dzial2a.csv"), d3.csv("../stare.csv")
     ]).then(function (data) {
-        generateQuestions(data, "A", "2")
+        let [newdata, olddata] = data
+        generateQuestions(newdata, olddata, "A", "2")
     }).then(function(){
         if(window.location.hash) {
 

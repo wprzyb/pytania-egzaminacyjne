@@ -26,3 +26,14 @@ html,body {
 #questions {
     margin: 0.75rem;
 }
+
+ins {
+    text-decoration: none;
+    background-color: #d4fcbc;
+}
+
+del {
+    text-decoration: line-through;
+    background-color: #fbb6c2;
+    color: #555;
+}

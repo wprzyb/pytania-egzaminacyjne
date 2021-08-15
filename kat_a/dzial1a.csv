@@ -1,10 +1,10 @@
 "id","pytanie","ilustracja","odpa","odpb","odpc","zmienione","nowe"
-"1","Który z poniższych materiałów jest dobrym izolatorem elektrycznym?","","szkło","alpaka","krzem",1,0
-"2","Połączenie, w którym przez wszystkie elementy płynie ten sam prąd nazywamy połączeniem:","","rezonansowym","szeregowym","równoległym",2,0
-"3","Przez kondensator o impedancji 10 Ω płynie prąd przemienny o częstotliwości 50Hz i wartości 2A. Jaki będzie spadek napięcia na kondensatorze?","","10 V","50 V","20 V",3,0
-"4","Przez trzy równoległe rezystory 1 Ω, 2 Ω i 4 Ω płyną prądy odpowiednio 4 A, 2 A i 1A. Całkowite natężenie prądu płynącego w obwodzie to: ","","4 A","1 A","7 A",4,0
+"1","Który z poniższych materiałów jest dobrym izolatorem elektrycznym?","","szkło","alpaka","krzem","",0
+"2","Połączenie, w którym przez wszystkie elementy płynie ten sam prąd nazywamy połączeniem:","","rezonansowym","szeregowym","równoległym","",0
+"3","Przez kondensator o impedancji 10 Ω płynie prąd przemienny o częstotliwości 50Hz i wartości 2A. Jaki będzie spadek napięcia na kondensatorze?","","10 V","50 V","20 V","",0
+"4","Przez trzy równoległe rezystory 1 Ω, 2 Ω i 4 Ω płyną prądy odpowiednio 4 A, 2 A i 1A. Całkowite natężenie prądu płynącego w obwodzie to: ","","4 A","1 A","7 A","",0
 "5","O ile spadnie napięcie 12 V akumulatora o rezystancji wewnętrznej 0,1 Ω przy poborze 10 A prądu?","","1 V","10 V","0,1 V","",0
-"6","Łącząc równolegle źródła napięcia powinno się:","","łączyć źródła o tej samej wydajności prądowej","łączyć źródła tylko tego samego typu","zadbać by ich napięcia były jednakowe",6,0
+"6","Łącząc równolegle źródła napięcia powinno się:","","łączyć źródła o tej samej wydajności prądowej","łączyć źródła tylko tego samego typu","zadbać by ich napięcia były jednakowe","",0
 "7","Jak nazywa się zdolność do gromadzenia energii w polu elektrycznym?","","opór","pojemność","kapacytancja","",0
 "8","Współczynnikiem skrócenia nazywamy:","","stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości światła w próżni","stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości dźwięku w powietrzu","parametr wtyczki, określający o ile zostanie skrócony kabel po jej montażu","",0
 "9","Jak nazywa się prąd, który zmienia swój kierunek w regularnych odstępach czasu?","","prąd stały","prąd przemienny","prąd siatki","",0
@@ -12,62 +12,62 @@
 "11","Od czego zależna jest rezystancja przewodu?","","jego materiału, długości, przekroju i temperatury.","jego materiału, długości, przekroju i użytej izolacji.","jego materiału, długości, przekroju i napięcia pracy.","",0
 "12","Który przewód o tej samej długości i przekroju będzie miał największą rezystancję?","","wykonany z aluminium","wykonany z żelaza","wykonany z miedzi","",0
 "13","W obwodzie prądu stałego przez rezystor 1 kΩ płynie prąd 2 mA. Jaki jest spadek napięcia na rezystorze?","","200 V","2000 V","2 V","",0
-"14","Do zasilacza o napięciu 12 V chcemy podłączyć diodę świecącą o napięciu przewodzenia 3 V i nominalnym prądzie 20 mA. Jaki rezystor należy włączyć w szereg, by ograniczyć prąd?","","600 Ω","150 Ω","450 Ω",14,0
+"14","Do zasilacza o napięciu 12 V chcemy podłączyć diodę świecącą o napięciu przewodzenia 3 V i nominalnym prądzie 20 mA. Jaki rezystor należy włączyć w szereg, by ograniczyć prąd?","","600 Ω","150 Ω","450 Ω","",0
 "15","Która z cech łączy szeregowy obwód rezonansowy LC z typową anteną (dipol półfalowy):","","w rezonansie stanowią tylko rezystancję","w rezonansie stanowią reaktancję pojemnościową","w rezonansie stanowią reaktancję indukcyjną","",0
 "16","Wartość skuteczna napięcia sieciowego wynosi 230 V, ile wynosi jego amplituda?","","230 V","324 V","220 V","",0
 "17","Jaka jest zależność fazowa między przepływającym prądem a napięciem w szeregowym obwodzie rezonansowym w rezonansie?","","napięcie wyprzedza prąd o 90 stopni","prąd wyprzedza napięcie o 90 stopni","napięcie i prąd są zgodne w fazie","",0
-"18","Działanie funkcji ""Noise Blanker"" polega na: ","","zwiększeniu pasma odbiornika","zmniejszeniu wzmocnienia odbiornika podczas okresowych impulsów zakłóceń ","przekierowaniu zakłóceń do kondensatora filtrującego",18,0
+"18","Działanie funkcji ""Noise Blanker"" polega na: ","","zwiększeniu pasma odbiornika","zmniejszeniu wzmocnienia odbiornika podczas okresowych impulsów zakłóceń ","przekierowaniu zakłóceń do kondensatora filtrującego","",0
 "19","Modulacja CW nazywana jest modulacją wąskopasmową, czy zatem jest możliwe dowolne zawężanie filtra wejściowego odbiornika celem odcięcia bocznych sygnałów niepożądanych?","","można zawężać dowolnie","nie można, poniżej pewnej wartości szerokości filtra sygnał staje się nieczytelny","można zawężać ale tylko o parzyste liczby herców","",0
 "20","W temperaturze pokojowej moc szumów termicznych w kanale o szerokości 1 Hz wynosi -174 dBm. Ile wynosi moc szumów w kanale o szerokości 10 kHz:","","-134 dBm","-214 dBm","-170 dBm","",0
 "21","Panel fotowoltaiczny oddaje moc 24W i ładuje akumulator prądem 2A. Zakładając stuprocentową sprawność układu ładowania, jakie jest napięcie na akumulatorze?","","napięcie wynosi 24 V","napięcie wynosi 12 V","napięcie wynosi 48 V","",0
 "22","Rezystor ma wartość 200 Ω. Płynie przez niego prąd 300 mA. Jaka moc wydziela się na rezystorze?","","18 W","1800 W","1,8 W","",0
-"23","Które z poniższych stwierdzeń opisuje modulację amplitudy (A3E)?","","posiada obie wstęgi boczne","nie posiada wstęg bocznych","jest odporna na przemodulowanie",23,0
+"23","Które z poniższych stwierdzeń opisuje modulację amplitudy (A3E)?","","posiada obie wstęgi boczne","nie posiada wstęg bocznych","jest odporna na przemodulowanie","",0
 "24","Modulacja PSK polega na: ","","dyskretnej zmianie fazy sygnału","modulacji mocy wyjściowej","nadawaniu obu wstęg bocznych na raz","",0
-"25","Jakie są trzy metody uzyskiwania modulacji jednowstęgowej?","","detekcja obwiedni, przez zmianę częstotliwości fali nośnej, metoda sumacyjna","metoda filtrowa, metoda fazowa, metoda Weavera","metoda Marconiego, metoda Popowa, metoda kohererowa",25,0
-"26","Która z wymienionych modulacji ma najwęższe pasmo?","","SSB","PSK31","CW",26,0
-"27","Jeśli dla sygnału AM amplituda sygnału modulującego równa jest amplitudzie fali nośnej, to mówimy, że:","","współczynnik głębokości modulacji wynosi 100%","sygnał jest przesterowany","jest to modulacja z wytłumioną falą nośną",27,0
+"25","Jakie są trzy metody uzyskiwania modulacji jednowstęgowej?","","detekcja obwiedni, przez zmianę częstotliwości fali nośnej, metoda sumacyjna","metoda filtrowa, metoda fazowa, metoda Weavera","metoda Marconiego, metoda Popowa, metoda kohererowa","",0
+"26","Która z wymienionych modulacji ma najwęższe pasmo?","","SSB","PSK31","CW",207,1
+"27","Jeśli dla sygnału AM amplituda sygnału modulującego równa jest amplitudzie fali nośnej, to mówimy, że:","","współczynnik głębokości modulacji wynosi 100%","sygnał jest przesterowany","jest to modulacja z wytłumioną falą nośną","",0
 "28","Szerokość kanału sygnału PSK31 wynosi:","","około 1 kHz","około 60 Hz","około 31,25 Hz","",0
 "29","Jakie napięcie występuje na rezystorze o wartości 50 Ω przy dostarczeniu do niego mocy 200 W?","","100 V","10000 V","4 V","",0
-"30","Siła elektromotoryczna ogniwa wynosi 1,5 V. Rezystancja wewnętrzna ogniwa wynosi 0,1 Ω. Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa?","","1,5 V","1 V","1,4 V",30,0
+"30","Siła elektromotoryczna ogniwa wynosi 1,5 V. Rezystancja wewnętrzna ogniwa wynosi 0,1 Ω. Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa?","","1,5 V","1 V","1,4 V","",0
 "31","Liczba 31 w nazwie modulacji BPSK31 oznacza:","","szerokość kanału - 31 Hz","szybkość przesyłania informacji - 31 Bd","głębokość modulacji - 31%","",0
 "32","W jaki sposób w emisjach cyfrowych można zapewnić korekcję błędów spowodowanych zakłóceniami i zanikami w łączności radiowej:","","przez wprowadzenie sumy kontrolnej CRC i ponowne wysyłanie tej samej informacji","robi to operator wprowadzając odpowiednią komendę do modemu","nie wprowadza się korekcji, zaniki są naturalną cechą łączności cyfrowej","",0
 "33","Moc PEP jest: ","","mocą średnią","mocą w szczytach modulacji","mocą maksymalną tranzystora, po przekroczeniu której ulega uszkodzeniu","",0
-"34","Sygnał silniejszy o 3 dB to: ","","sygnał o trzykrotnie większej mocy","sygnał o dziesięciokrotnie większej mocy","sygnał o dwukrotnie większej mocy",34,0
+"34","Sygnał silniejszy o 3 dB to: ","","sygnał o trzykrotnie większej mocy","sygnał o dziesięciokrotnie większej mocy","sygnał o dwukrotnie większej mocy","",0
 "35","Na skali S-metru jedna jednostka odpowiada wzrostowi odbieranego sygnału o 6 dB. Aby sygnał odbierany przez naszego korespondenta wzrósł z S7 do S9, moc nadajnika należy zwiększyć:","","ośmiokrotnie","czterokrotnie","szesnastokrotnie","",0
 "36","System antenowy dostarcza sygnał na poziomie -20dBm, jest on podłączony do przedwzmacniacza o wzmocnieniu 10dB kablem o tłumieniu 3dB. Jakiej mocy sygnał uzyskamy na wyjściu przedwzmacniacza?","","-13 dBm","-33 dBm","-27 dBm","",0
-"37","Na wejście analizatora widma można bezpiecznie podać sygnał o mocy 20 dBm. Jakiego tłumika należy użyć, by nie uszkodzić przyrządu badając sygnał wyjściowy nadajnika o mocy 100 W:","","co najmniej 10 dB","co najmniej 30 dB","co najmniej 20 dB",37,0
-"38","Jaki kształt przyjmuje pole magnetyczne wytworzone przez przewodnik z prądem?","","jest równolegle do osi przewodu","przewodnik z prądem wytwarza tylko pole elektryczne.","tworzy okręgi wokół przewodu",38,0
-"39","Niedopasowanie anteny do linii transmisyjnej powoduje powstanie fali stojącej i w konsekwencji:","","odbicia sygnału od miejsca niedopasowania i straty w linii transmisyjnej","może spowodować spalenie anteny","drgania fidera",39,0
+"37","Na wejście analizatora widma można bezpiecznie podać sygnał o mocy 20 dBm. Jakiego tłumika należy użyć, by nie uszkodzić przyrządu badając sygnał wyjściowy nadajnika o mocy 100 W:","","co najmniej 10 dB","co najmniej 30 dB","co najmniej 20 dB","",0
+"38","Jaki kształt przyjmuje pole magnetyczne wytworzone przez przewodnik z prądem?","","jest równolegle do osi przewodu","przewodnik z prądem wytwarza tylko pole elektryczne.","tworzy okręgi wokół przewodu","",0
+"39","Niedopasowanie anteny do linii transmisyjnej powoduje powstanie fali stojącej i w konsekwencji:","","odbicia sygnału od miejsca niedopasowania i straty w linii transmisyjnej","może spowodować spalenie anteny","drgania fidera","",0
 "40","Nadajnik o mocy wyjściowej 100 W pobiera z zasilacza 280 W. Jego sprawność wynosi około:","","36%","64%","280%","",0
 "41","Jaką moc PEP dostarcza nadajnik, jeśli napięcie międzyszczytowe (peak to peak) zmierzone oscyloskopem na sztucznym obciążeniu 50 Ω wynosi 200 V?","","200 W","100 W","50 W","",0
-"42","Jaka powinna być częstotliwość próbkowania sygnału o maksymalnej częstotliwości składowej 50 kHz, aby poprawnie można było ten sygnał odtworzyć?","","minimum 50 kHz","minimum 100 kHz","minimum 500 kHz",42,0
-"43","Rozdzielczość bitowa przetwornika ADC wpływa na: ","","zakres dynamiki","szybkość próbkowania","pasmo przenoszenia",43,0
+"42","Jaka powinna być częstotliwość próbkowania sygnału o maksymalnej częstotliwości składowej 50 kHz, aby poprawnie można było ten sygnał odtworzyć?","","minimum 50 kHz","minimum 100 kHz","minimum 500 kHz","",0
+"43","Rozdzielczość bitowa przetwornika ADC wpływa na: ","","zakres dynamiki","szybkość próbkowania","pasmo przenoszenia","",0
 "44","Transformator sieciowy na napięcie 230V dostarcza po stronie wtórnej napięcia 23V przy maksymalnym prądzie 10A. Jakiego prądu można się spodziewać po stronie pierwotnej transformatora?","","2 A","1 A","10 A","",0
-"45","W tranzystorach polowych prąd drenu sterowany jest przez","","prąd bazy","napięcie pomiędzy bramką, a źródłem","pojemność złączową",45,0
-"46","Szeregowy obwód rezonansowy LC połączony w szereg z obciążeniem stanowi:","","filtr pasmowoprzepustowy","filtr pasmowozaporowy","filtr IIR",46,0
-"47","Który z czynników ma największy wpływ na szerokość pasma filtra zbudowanego z rezonatorów kwarcowych?","","częstotliwości poszczególnych rezonatorów","stabilność temperaturowa","wartość napięcia wejściowego ",47,0
-"48","Jeśli zasilacz impulsowy powoduje zakłócenia na częstotliwości 14,250 MHz to która z poniższych metod redukcji zakłóceń nie będzie skuteczna?","","poprawne uziemienie zasilacza","delikatna zmiana częstotliwości kluczowania przetwornicy zasilacza","ustawienie pod innym kątem do odbiornika",48,0
-"49","Element aktywny we wzmacniaczu przewodzi przez cały okres wzmacnianego sygnału. Wzmacniacz ten pracuje w klasie:","","A","B","C",49,0
-"50","W jakim celu używana jest automatyczna kontrola poziomu (ALC) we wzmacniaczu mocy RF?","","aby zrównoważyć charakterystykę częstotliwościową nadajnika","aby zredukować promieniowanie harmonicznych","aby zmniejszyć zniekształcenia spowodowane nadmiernym wysterowaniem",50,0
-"51","Efektem mieszania dwóch sygnałów o częstotliwościach: 5 MHz i 2 MHz jest:","","sygnał o częstotliwości 3 MHz","sygnał o częstotliwości 7 MHz","dwa sygnały o częstotliwości 3 MHz i 7 MHz",51,0
-"52","Który termin opisuje zdolność odbiornika do wyodrębnienia spośród różnych sygnałów doprowadzonych do wejścia odbiornika tylko sygnału o takiej częstotliwości, na którą jest nastrojony:","","współczynnik dyskryminacji","czułość","selektywność",52,0
-"53","Pewien ręczny radiotelefon VHF/UHF pozbawiony jest filtrów pasmowych w torze wejściowym. Podczas aktywacji jednego ze szczytów w ramach programu SOTA okazało się, że nie można odebrać sygnałów korespondentów, pomimo wykorzystania dobrej anteny dookólnej. Czym może być spowodowane to zjawisko?","","rozpraszaniem sygnału na śladach jonizacyjnych meteorów (meteor scatter)","odczulaniem odbiornika przez mocny sygnał nadajnika rozgłośni radiowej na sąsiedniej górze","silnymi podmuchami wiatru",53,0
-"54","W odbiorniku superheterodynowym szumy fazowe oscylatora lokalnego mają wpływ na:","","pogorszenie stosunku sygnału do szumu","pływanie odbieranego sygnału telegraficznego","zmniejszenie sygnału audio",54,0
-"55","Czy antena typu delta, o długości promiennika ~41 m będzie poprawnie działała w paśmie 20 m?","","nIe, to jest antena jednopasmowa","tak, antena typu delta stroi się na kolejnych harmonicznych","tak, ale tylko jako odbiorcza",55,0
+"45","W tranzystorach polowych prąd drenu sterowany jest przez","","prąd bazy","napięcie pomiędzy bramką, a źródłem","pojemność złączową","",0
+"46","Szeregowy obwód rezonansowy LC połączony w szereg z obciążeniem stanowi:","","filtr pasmowoprzepustowy","filtr pasmowozaporowy","filtr IIR","",0
+"47","Który z czynników ma największy wpływ na szerokość pasma filtra zbudowanego z rezonatorów kwarcowych?","","częstotliwości poszczególnych rezonatorów","stabilność temperaturowa","wartość napięcia wejściowego ","",0
+"48","Jeśli zasilacz impulsowy powoduje zakłócenia na częstotliwości 14,250 MHz to która z poniższych metod redukcji zakłóceń nie będzie skuteczna?","","poprawne uziemienie zasilacza","delikatna zmiana częstotliwości kluczowania przetwornicy zasilacza","ustawienie pod innym kątem do odbiornika","",0
+"49","Element aktywny we wzmacniaczu przewodzi przez cały okres wzmacnianego sygnału. Wzmacniacz ten pracuje w klasie:","","A","B","C","",0
+"50","W jakim celu używana jest automatyczna kontrola poziomu (ALC) we wzmacniaczu mocy RF?","","aby zrównoważyć charakterystykę częstotliwościową nadajnika","aby zredukować promieniowanie harmonicznych","aby zmniejszyć zniekształcenia spowodowane nadmiernym wysterowaniem","",0
+"51","Efektem mieszania dwóch sygnałów o częstotliwościach: 5 MHz i 2 MHz jest:","","sygnał o częstotliwości 3 MHz","sygnał o częstotliwości 7 MHz","dwa sygnały o częstotliwości 3 MHz i 7 MHz","",0
+"52","Który termin opisuje zdolność odbiornika do wyodrębnienia spośród różnych sygnałów doprowadzonych do wejścia odbiornika tylko sygnału o takiej częstotliwości, na którą jest nastrojony:","","współczynnik dyskryminacji","czułość","selektywność","",0
+"53","Pewien ręczny radiotelefon VHF/UHF pozbawiony jest filtrów pasmowych w torze wejściowym. Podczas aktywacji jednego ze szczytów w ramach programu SOTA okazało się, że nie można odebrać sygnałów korespondentów, pomimo wykorzystania dobrej anteny dookólnej. Czym może być spowodowane to zjawisko?","","rozpraszaniem sygnału na śladach jonizacyjnych meteorów (meteor scatter)","odczulaniem odbiornika przez mocny sygnał nadajnika rozgłośni radiowej na sąsiedniej górze","silnymi podmuchami wiatru","",0
+"54","W odbiorniku superheterodynowym szumy fazowe oscylatora lokalnego mają wpływ na:","","pogorszenie stosunku sygnału do szumu","pływanie odbieranego sygnału telegraficznego","zmniejszenie sygnału audio","",0
+"55","Czy antena typu delta, o długości promiennika ~41 m będzie poprawnie działała w paśmie 20 m?","","nIe, to jest antena jednopasmowa","tak, antena typu delta stroi się na kolejnych harmonicznych","tak, ale tylko jako odbiorcza","",0
 "56","Co stanie się kiedy nasz korespondent w paśmie 70 cm używa anteny o odmiennej polaryzacji niż nasza?","","wstęgi boczne modulacji mogą zostać odwrócone","sygnały mogą być znacznie słabsze","słyszymy efekt echa na sygnale","",0
 "57","Co oznacza pojęcie „stosunek przód-tył” w odniesieniu do anteny Yagi-Uda?","","stosunek liczby direktorów do reflektorów","stosunek mocy wypromieniowanej w kierunku głównego listka promieniowania do kierunku przeciwnego","stosunek mocy wypromieniowanej w przód anteny do dipola półfalowego","",0
-"58","Współczynnik skrócenia kabla koncentrycznego to","","stosunek prędkości rozchodzenia się fali w kablu do prędkości rozchodzenia w próżni","stosunek długości kabla do jego średnicy","parametr charakteryzujący odporność kabla na promieniowanie UV",58,0
-"59","Jakie znaczenie ma liczba plam słonecznych w odniesieniu do propagacji KF?","","wyższa liczba plam słonecznych generalnie wskazuje na większe prawdopodobieństwo dobrej propagacji na wyższych częstotliwościach","niższa liczba plam słonecznych ogólnie wskazuje na większe prawdopodobieństwo wystąpienia sporadycznej propagacji przez warstwę E.","zerowa liczba plam słonecznych oznacza, że propagacja radiowa nie jest możliwa w żadnym paśmie",59,0
-"60","Co oznacza skrót MUF?","","minimalna użyteczna częstotliwość dla komunikacji między dwoma punktami","maksymalna użyteczna częstotliwość do komunikacji między dwoma punktami","minimalna użyteczna częstotliwość na następne 24 godziny",60,0
-"61","Ile mocy zostaje wypromieniowane przez antenę, jeśli miernik mocy podłączony pomiędzy nadajnik a antenę  wskazuje 100 W mocy padającej i 30 W mocy odbitej?","","130 W","70 W","30 W",61,0
-"62","Jaka jest przewaga wektorowego analizatora antenowego (VNA) nad miernikiem SWR (reflektometrem)?","","miernik SWR wymaga określonej częstotliwości do działania","analizator nie potrzebuje dodatkowego zasilania zasilając się z sygnału w.cz z nadajnika","analizator jest w stanie wykazać składową indukcyjną lub pojemnościową badanej anteny oraz określić miejsce rezonansu",62,0
-"63","Który parametr ma największy wpływ na dokładność miernika częstotliwości?","","dokładność tłumika wejściowego","dokładność generatora wzorcowego","dokładność kalibracji dzielnika częstotliwości",63,0
+"58","Współczynnik skrócenia kabla koncentrycznego to","","stosunek prędkości rozchodzenia się fali w kablu do prędkości rozchodzenia w próżni","stosunek długości kabla do jego średnicy","parametr charakteryzujący odporność kabla na promieniowanie UV","",0
+"59","Jakie znaczenie ma liczba plam słonecznych w odniesieniu do propagacji KF?","","wyższa liczba plam słonecznych generalnie wskazuje na większe prawdopodobieństwo dobrej propagacji na wyższych częstotliwościach","niższa liczba plam słonecznych ogólnie wskazuje na większe prawdopodobieństwo wystąpienia sporadycznej propagacji przez warstwę E.","zerowa liczba plam słonecznych oznacza, że propagacja radiowa nie jest możliwa w żadnym paśmie","",0
+"60","Co oznacza skrót MUF?","","minimalna użyteczna częstotliwość dla komunikacji między dwoma punktami","maksymalna użyteczna częstotliwość do komunikacji między dwoma punktami","minimalna użyteczna częstotliwość na następne 24 godziny","",0
+"61","Ile mocy zostaje wypromieniowane przez antenę, jeśli miernik mocy podłączony pomiędzy nadajnik a antenę  wskazuje 100 W mocy padającej i 30 W mocy odbitej?","","130 W","70 W","30 W","",0
+"62","Jaka jest przewaga wektorowego analizatora antenowego (VNA) nad miernikiem SWR (reflektometrem)?","","miernik SWR wymaga określonej częstotliwości do działania","analizator nie potrzebuje dodatkowego zasilania zasilając się z sygnału w.cz z nadajnika","analizator jest w stanie wykazać składową indukcyjną lub pojemnościową badanej anteny oraz określić miejsce rezonansu","",0
+"63","Który parametr ma największy wpływ na dokładność miernika częstotliwości?","","dokładność tłumika wejściowego","dokładność generatora wzorcowego","dokładność kalibracji dzielnika częstotliwości","",0
 "64","Co jest dobrą praktyką przy pomiarach obwodów wielkiej częstotliwości za pomocą oscyloskopu?","","utrzymanie jak najkrótszego połączenia uziemienia sondy","nieużywanie sprzężenia stałoprądowego do pomiarów sygnałów przemiennych","ustawianie oscyloskopu na najkrótszą podstawę czasu jak to tylko możliwe","",0
-"65","Proces, który zachodzi w nieliniowym elemencie lub układzie elektronicznym, kiedy składowe widma sygnału oddziałują na siebie tworząc fałszywe sygnały to:","","demodulacja","mieszanie","intermodulacja",65,0
-"66","Co jest jednostką impedancji?","","farad","om","herc",66,0
+"65","Proces, który zachodzi w nieliniowym elemencie lub układzie elektronicznym, kiedy składowe widma sygnału oddziałują na siebie tworząc fałszywe sygnały to:","","demodulacja","mieszanie","intermodulacja","",0
+"66","Co jest jednostką impedancji?","","farad","om","herc","",0
 "67","Czy opór elektryczny przewodu zależy od materiału z którego jest wykonany?","","zależy","nie zależy","zależy od izolacji przewodu",1,0
 "68","Izolatorami nazywamy materiały które:","","nie przewodzą prądu elektrycznego","przewodzą słabo","przewodzą prąd przy wysokim napięciu",2,0
-"69","Który przewód o tej samej długości i przekroju będzie miał najmniejszą oporność?","","wykonany z aluminium","wykonany z żelaza","wykonany z miedzi",69,0
+"69","Który przewód o tej samej długości i przekroju będzie miał najmniejszą oporność?","","wykonany z aluminium","wykonany z żelaza","wykonany z miedzi",3,1
 "70","Który z materiałów ma własności półprzewodnikowe?","","złoto","german","platyna",4,0
 "71","Żarówka 12 V pobiera z baterii 0,1 A. Jaką oporność ma żarówka?","","oporność 120 Ω","oporność 12 Ω","oporność 1,2 Ω",5,0
 "72","Żarówka ma moc 24 W i pobiera z akumulatora 2 A. Jakie jest napięcie akumulatora?","","napięcie wynosi 24 V","napięcie wynosi 12 V","napięcie wynosi 48 V",6,0
@@ -83,61 +83,61 @@
 "82","Do cewki powietrznej 100 µH wkładamy rdzeń ferrytowy o względnej przenikalności µ = 10. Ile wyniesie indukcyjność cewki?","","wzrośnie do 1000 µH","nie zmieni się","zmaleje do 10 µH",25,0
 "83","Są dwie cewki powietrzne. Przy tej samej średnicy i liczbie zwojów, L1 jest nawinięta drutem dwa razy grubszym niż L2. Która z nich ma większą dobroć Q?","","cewka L1","cewka L2","obie mają taką samą dobroć, bo mają tą samą średnicę",26,0
 "84","Przekładnia transformatora wynosi 20 do 1. Strona pierwotna włączona jest na napięcie sieci 240 V. Jakie napięcie będzie po stronie wtórnej?","","24 V","12 V","20 V",27,0
-"85","Diody prostownicze są stosowane do:","","do eliminacji tętnień zasilacza","do prostowania prądu w zasilaczach","do stabilizacji napięć",85,0
+"85","Diody prostownicze są stosowane do:","","do eliminacji tętnień zasilacza","do prostowania prądu w zasilaczach","do stabilizacji napięć",28,1
 "86","Diody Zenera to diody:","","służące do stabilizacji napięć","świecące","na bardzo wysokie częstotliwości","",0
 "87","Warikap to:","","dioda mikrofalowa","dioda pojemnościowa","dioda stabilizacyjna",30,0
 "88","Lampa elektronowa pentoda posiada:","","pięć elektrod","cztery elektrody","trzy elektrody",34,0
 "89","Cztery oporniki o wartościach 5 Ω zostały połączone szeregowo. Ile wynosi oporność zastępcza?","","10 Ω","20 Ω","40 Ω",35,0
-"90","Ile oporników o wartości 200 Ω należy połączyć równolegle by uzyskać sztuczne obciążenie antenowe 50 Ω?","","5 szt.","2 szt.","4 szt.",90,0
-"91","Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?","A_1_091.png","prostownik dwupołówkowy","prostownik jednopołówkowy","prostownik mostkowy dwupołówkowy",91,0
-"92","Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?  ","A_1_092.png","prostownik dwupołówkowy","prostownik jednopołówkowy","prostownik mostkowy dwupołówkowy  ",92,0
-"93","Wzmacniacz wzmacnia sygnały w zakresie od 100Hz do 10 kHz. Wzmacniacz ten nazywamy wzmacniaczem:","","niskiej częstotliwości","wzmacniaczem pośredniej częstotliwości","wzmacniaczem selektywnym",93,0
-"94","Wzmacniacz jest przesterowany kiedy:","","ma za duże napięcie zasilania","ma za duże napięcie wejściowe","pracuje w klasie C",94,0
-"95","W jakiej klasie powinien pracować wzmacniacz w.cz. do wzmacniania sygnału SSB?","","w klasie C","w klasie AB","impulsowo",95,0
-"96","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych, ale nieopisanych bloków. Blok 1 to:","A_1_096.png","generator stabilizowany","komparator","dzielnik wzorca",96,0
+"90","Ile oporników o wartości 200 Ω należy połączyć równolegle by uzyskać sztuczne obciążenie antenowe 50 Ω?","","5 szt.","2 szt.","4 szt.",36,1
+"91","Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?","A_1_091.png","prostownik dwupołówkowy","prostownik jednopołówkowy","prostownik mostkowy dwupołówkowy","",0
+"92","Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?  ","A_1_092.png","prostownik dwupołówkowy","prostownik jednopołówkowy","prostownik mostkowy dwupołówkowy  ","",0
+"93","Wzmacniacz wzmacnia sygnały w zakresie od 100Hz do 10 kHz. Wzmacniacz ten nazywamy wzmacniaczem:","","niskiej częstotliwości","wzmacniaczem pośredniej częstotliwości","wzmacniaczem selektywnym",39,1
+"94","Wzmacniacz jest przesterowany kiedy:","","ma za duże napięcie zasilania","ma za duże napięcie wejściowe","pracuje w klasie C",40,1
+"95","W jakiej klasie powinien pracować wzmacniacz w.cz. do wzmacniania sygnału SSB?","","w klasie C","w klasie AB","impulsowo",41,1
+"96","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych, ale nieopisanych bloków. Blok 1 to:","A_1_096.png","generator stabilizowany","komparator","dzielnik wzorca","",0
 "97","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych, ale nieopisanych bloków. Blok 4 to:","A_1_097.png","dzielnik wzorca","generator wzorca","komparator","",0
-"98","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 1 to:","A_1_098.png","filtr wejściowy","wzmacniacz akustyczny","detektor AM",98,0
+"98","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 1 to:","A_1_098.png","filtr wejściowy","wzmacniacz akustyczny","detektor AM",45,1
 "99","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 5 to:","A_1_099.png","heterodyna","wzmacniacz akustyczny","detektor AM",46,0
 "100","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 1 to:","A_1_100.png","wzmacniacz w.cz.","wzmacniacz akustyczny","detektor AM CW SSB",47,0
 "101","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 9 to:","A_1_101.png","wzmacniacz akustyczny","wzmacniacz pośredniej cz.","heterodyna",48,0
 "102","Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 1 to:","A_1_102.png","filtr wejściowy","wzmacniacz akustyczny","heterodyna",49,0
 "103","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 2 to:","A_1_103.png","wzmacniacz akustyczny","I mieszacz","wzmacniacz II p.cz.",50,0
-"104","Jaka powinna być stabilność heterodyny w odbiorniku komunikacyjnym? Częstotliwość heterodyny na najwyższym zakresie po włączeniu odbiornika powinna zmieniać się nie więcej jak:","","o 200 Hz","o 500 Hz","o 1000 Hz",104,0
+"104","Jaka powinna być stabilność heterodyny w odbiorniku komunikacyjnym? Częstotliwość heterodyny na najwyższym zakresie po włączeniu odbiornika powinna zmieniać się nie więcej jak:","","o 200 Hz","o 500 Hz","o 1000 Hz",51,1
 "105","Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 4 to:","A_1_105.png","filtr wyjściowy","wzmacniacz mocy (PA)","separator",52,0
-"106","Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 1 to:","A_1_106.png","wzmacniacz mocy (PA)","oscylator (VFO)","separator",106,0
+"106","Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 1 to:","A_1_106.png","wzmacniacz mocy (PA)","oscylator (VFO)","separator",53,1
 "107","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 1 to:","A_1_107.png","wzmacniacz mocy (PA)","oscylator (VFO) 5 - 5,5 MHz","wzbudnica SSB 9 MHz",54,0
-"108","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnic 9 MHz. Blok 2 to:","A_1_108.png","wzmacniacz sterujący","mieszacz","filtr wyjściowy",108,0
+"108","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnic 9 MHz. Blok 2 to:","A_1_108.png","wzmacniacz sterujący","mieszacz","filtr wyjściowy",55,1
 "109","Jaka jest horyzontalna charakterystyka promieniowania dipola półfalowego zawieszonego poziomo?","","dookólna","ósemkowa","kierunkowa w linii zawieszenia",58,0
 "110","Jaka jest horyzontalna charakterystyka promieniowania pionowej anteny ćwierćfalowej?","","dookólna","kierunkowa","w kształcie koniczyny",59,0
-"111","Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 1 to:","A_1_111.png","reflektor","wibrator","I direktor",111,0
+"111","Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 1 to:","A_1_111.png","reflektor","wibrator","I direktor",60,1
 "112","Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 2 to:","A_1_112.png","wibrator","II direktor","reflektor",61,0
-"113","Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 3 to:","A_1_113.png","wibrator","I direktor","II direktor",113,0
+"113","Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 3 to:","A_1_113.png","wibrator","I direktor","II direktor",62,1
 "114","Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 4 to:","A_1_114.png","I direktor","II direktor","wibrator",63,0
-"115","W jakim przypadku powstaje w linii przesyłowej w.cz. fala stojąca?","","kiedy kabel nie jest ułożony prosto","kiedy obok kabla koncentrycznego przechodzi inny kabel","kiedy impedancja obciążenia nie jest zgodna z impedancją falową kabla",115,0
+"115","W jakim przypadku powstaje w linii przesyłowej w.cz. fala stojąca?","","kiedy kabel nie jest ułożony prosto","kiedy obok kabla koncentrycznego przechodzi inny kabel","kiedy impedancja obciążenia nie jest zgodna z impedancją falową kabla",65,1
 "116","Jak nazywa się przyrząd do mierzenia współczynnika fali stojącej?","","rezystomierz","reflektometr","refraktometr",66,0
 "117","Reflektometr wskazuje, że amplituda fali padającej jest równa amplitudzie fali odbitej. Współczynnik fali stojącej równy jest nieskończoności. Co może być przyczyną takiego stanu?","","zwarcie lub przerwa w kablu","niewielka zmiana oporności falowej anteny","zamoczenie izolacji w kablu",67,0
-"118","Niesymetryczny kabel koncentryczny 50 om do symetrycznej anteny o oporności falowej 50Ω najlepiej połączyć za pomocą:","","ununa 9:1","baluna 1:1 (symetryzatora)","baluna 1:2",118,0
+"118","Niesymetryczny kabel koncentryczny 50 om do symetrycznej anteny o oporności falowej 50Ω najlepiej połączyć za pomocą:","","ununa 9:1","baluna 1:1 (symetryzatora)","baluna 1:2",68,1
 "119","Czy stan jonosfery ma wpływ na rozchodzenie się fal krótkich?","","słaby","tylko okresowo, w dzień","ma bardzo duży wpływ",69,0
 "120","Około 11-letnie cykle zmian propagacji związane są z:","","cyklem słonecznym","cyklem przebiegunowania Ziemi","fluktuacjami średniego poziomu morza",70,0
-"121","Co to jest zasięg horyzontalny na UKF?","","zasięg wyznaczony linią horyzontu radiowego","zasięg obliczony z mocy promieniowanej e.i.r.p.","zasięg teoretyczny nadajnika",121,0
-"122","Dalekie rozchodzenie się fal UKF podczas inwersji temperaturowej zawdzięczamy:","","wielokrotnemu odbijaniu się fal od ciepłej ziemi","odbijaniu się fal radiowych od podstawy chmur wysokich","prowadzeniu fal przez dukty powstałe z warstw ciepłego i zimnego powietrza",122,0
-"123","Skrót EME oznacza łączności:","","z wykorzystaniem odbicia sygnału od Księżyca","wykorzystaniem do łączności siły elektromotorycznej SEM","za pomocą elektromagnetycznej emisji EME na UKF",123,0
-"124","Jak w warunkach amatorskich zmierzyć moc wyjściową nadajnika?","","poprzez pomiar napięcia za pomocą sondy w.cz. na oporze sztucznej anteny 50 om i obliczenie","poprzez pomiar prądu i napięcia stałego doprowadzonego do stopnia mocy (PA)","poprzez uzyskanie raportu od korespondenta",124,0
+"121","Co to jest zasięg horyzontalny na UKF?","","zasięg wyznaczony linią horyzontu radiowego","zasięg obliczony z mocy promieniowanej e.i.r.p.","zasięg teoretyczny nadajnika",71,1
+"122","Dalekie rozchodzenie się fal UKF podczas inwersji temperaturowej zawdzięczamy:","","wielokrotnemu odbijaniu się fal od ciepłej ziemi","odbijaniu się fal radiowych od podstawy chmur wysokich","prowadzeniu fal przez dukty powstałe z warstw ciepłego i zimnego powietrza",72,1
+"123","Skrót EME oznacza łączności:","","z wykorzystaniem odbicia sygnału od Księżyca","wykorzystaniem do łączności siły elektromotorycznej SEM","za pomocą elektromagnetycznej emisji EME na UKF",73,1
+"124","Jak w warunkach amatorskich zmierzyć moc wyjściową nadajnika?","","poprzez pomiar napięcia za pomocą sondy w.cz. na oporze sztucznej anteny 50 om i obliczenie","poprzez pomiar prądu i napięcia stałego doprowadzonego do stopnia mocy (PA)","poprzez uzyskanie raportu od korespondenta",78,1
 "125","Jakim przyrządem mierzymy dopasowanie anteny do nadajnika?","","żarówką włączoną w szereg na maksimum świecenia","sprawdzeniem czy kabel się nie grzeje","za pomocą reflektometru",79,0
-"126","Jak zwalczyć zakłócenia rozprowadzane siecią energetyczną?","","przez stosowanie grubych przewodów","przez stosowanie filtrów sieciowych, ekranowanie urządzeń i odpowiednią konstrukcję urządzeń","przez zastosowanie zabezpieczenia różnicowoprądowego",126,0
+"126","Jak zwalczyć zakłócenia rozprowadzane siecią energetyczną?","","przez stosowanie grubych przewodów","przez stosowanie filtrów sieciowych, ekranowanie urządzeń i odpowiednią konstrukcję urządzeń","przez zastosowanie zabezpieczenia różnicowoprądowego",80,1
 "127","Jeżeli nadajnik amatorski powoduje zakłócenia, to jakie elementy sprawdzamy w pierwszej kolejności?","","prawidłowe działanie mikrofonu","blokadę szumów odbiornika","liniowość stopnia mocy (PA), filtr wyjściowy, uziemienie radiostacji",82,0
 "128","Jeżeli nadajnik promieniuje energię w.cz. poprzez sieć zasilającą to stosujemy:","","filtr w.cz. na wyjściu antenowym nadajnika","dławnicę kablową","uziemiamy obudowę i włączamy filtr sieciowy w zasilanie",84,0
-"129","Jaka instytucja zajmuje się lokalizowaniem zakłóceń radiowych i radioelektrycznych oraz badaniem sprzętu radionadawczego?","","Urząd Komunikacji Elektronicznej","Ministerstwo Ochrony Środowiska","sztaby antykryzysowe",129,0
+"129","Jaka instytucja zajmuje się lokalizowaniem zakłóceń radiowych i radioelektrycznych oraz badaniem sprzętu radionadawczego?","","Urząd Komunikacji Elektronicznej","Ministerstwo Ochrony Środowiska","sztaby antykryzysowe",85,1
 "130","W obwodzie prądu stałego przez opornik 1000 Ω płynie prąd 2 mA. Jaki jest spadek napięcia na oporze?","","spadek wynosi 500 V","spadek wynosi 2000 V","spadek wynosi 2 V",90,0
-"131","Akumulator ma napięcie 6,5 V. Do akumulatora chcemy podłączyć żarówkę 3,5 V 0,3 A. Jaki opornik należy włączyć w szereg by ograniczyć prąd?","","opornik 3,5 Ω","opornik 100 Ω","opornik 10 Ω",131,0
-"132","Opornik ma 200 Ω. Płynie przez niego prąd 300 mA. Jaka jest moc tracona w oporze?","","18 W","1800 W","1,8 W",132,0
-"133","Jakie napięcie występuje na oporze 50 Ω przy dostarczeniu do niego mocy 200 W?","","100 V","200 V","50 V",133,0
+"131","Akumulator ma napięcie 6,5 V. Do akumulatora chcemy podłączyć żarówkę 3,5 V 0,3 A. Jaki opornik należy włączyć w szereg by ograniczyć prąd?","","opornik 3,5 Ω","opornik 100 Ω","opornik 10 Ω",91,1
+"132","Opornik ma 200 Ω. Płynie przez niego prąd 300 mA. Jaka jest moc tracona w oporze?","","18 W","1800 W","1,8 W",92,1
+"133","Jakie napięcie występuje na oporze 50 Ω przy dostarczeniu do niego mocy 200 W?","","100 V","200 V","50 V",93,1
 "134","Mamy opornik 100 Ω dołączony do napięcia 3 V. Z jakiej grupy mocy wybierzemy opornik?","","grupa 1 W","grupa 0,125 W","grupa 0,5 W",94,0
-"135","Jaka jest częstotliwość prądu zmiennego, którego okres wynosi 0,02 s?","","100 Hz","50 Hz","60 Hz",135,0
-"136","Wartość amplitudy napięcia sinusoidalnego wynosi 200 V. Jaka jest wartość skuteczna napięcia?","","200 V","400 V","141,4 V",136,0
-"137","Napięcie międzyszczytowe sinusoidalnego prądu zmiennego wynosi 678 V. Ile wynosi wartość skuteczna tego napięcia?","","340 V","240 V","680 V",137,0
-"138","Siła elektromotoryczna ogniwa wynosi 1,5 V. Oporność wewnętrzna ogniwa wynosi 0,1Ω. Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa?","","1,5 V","1 V","1,4 V",138,0
-"139","Pole elektryczne może być ekranowane za pomocą:","","ekranów z blach","ekranów z izolatorów","ekranów z włókna szklanego",139,0
+"135","Jaka jest częstotliwość prądu zmiennego, którego okres wynosi 0,02 s?","","100 Hz","50 Hz","60 Hz",95,1
+"136","Wartość amplitudy napięcia sinusoidalnego wynosi 200 V. Jaka jest wartość skuteczna napięcia?","","200 V","400 V","141,4 V",96,1
+"137","Napięcie międzyszczytowe sinusoidalnego prądu zmiennego wynosi 678 V. Ile wynosi wartość skuteczna tego napięcia?","","340 V","240 V","680 V","",0
+"138","Siła elektromotoryczna ogniwa wynosi 1,5 V. Oporność wewnętrzna ogniwa wynosi 0,1Ω. Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa?","","1,5 V","1 V","1,4 V",98,1
+"139","Pole elektryczne może być ekranowane za pomocą:","","ekranów z blach","ekranów z izolatorów","ekranów z włókna szklanego",100,1
 "140","Dlaczego rdzenie transformatorów wykonywane są z blaszek?","","ze względu na lepsze chłodzenie","ze względu na łatwiejsze wykonanie","ze względu na mniejsze straty wynikające z prądów wirowych",102,0
 "141","Fala elektromagnetyczna ma dwie składowe. Zaznacz która kombinacja jest poprawna:","","składowa elektryczna i składowa prędkości","składowa elektryczna i składowa magnetyczna","składowa magnetyczna i składowa prędkości",104,0
 "142","Częstotliwość pracy nadajnika amatorskiego wynosi 3,5714 MHz. Jaka jest przybliżona długość fali tego nadajnika?","","80 m","40 m","20 m",105,0
@@ -147,47 +147,47 @@
 "146","Moc wyjściową nadajnika FM podano w dBm i wynosi ona 33 dBm. Ile to jest w watach? (dla ułatwienia podajemy, że 30 dBm odpowiada 1 W)","","2 W","130 W","20 W",110,0
 "147","Napięcie na wejściu odbiornika o oporności 50 om wynosi 10 µV. Napięcie to wzrosło do 100 µV. O ile wzrosło napięcie wyrażone w dB?","","o 10 dB","o 20 dB","o 40 dB",111,0
 "148","Zasilacz nadajnika dostarcza do stopnia końcowego nadajnika napięcie 20 V i prąd 5 A. Jaka jest sprawność energetyczna stopnia końcowego w %, jeżeli na wyjściu zmierzyliśmy moc PEP = 40 W?","","50 %","40 %","60 %",112,0
-"149","Tolerancja wykonania opornika 1 kΩ wynosi 5 %. W jakich granicach zawiera się jego oporność?","","od 0,9 do 1,1 kΩ","od 0,98 do 1,02 kΩ","od 950 om do 1050 Ω",149,0
-"150","Spadek napięcia na oporniku wynosi 100 V, przy prądzie 10 mA. Opornik jakiej mocy zastosujemy w tym miejscu?","","10 W","1 W","0,5 W",150,0
-"151","Kondensator mikowy ma pojemność 6800 pF, i napięcie pracy 500V. Czy można go zastosować w miejsce kondensatora 6,8 nF o napięciu pracy 250 V?","","tak, można","nie można","można, ale potrzebne są dwa takie kondensatory",151,0
-"152","W obwodzie prądu zmiennego przy tej samej częstotliwości zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszyła się reaktancja Xc?","","2 razy","100 razy","10 razy",152,0
-"153","Tranzystor krzemowy ma wzmocnienie prądowe β = 100. Napięcie zasilania wynosi 5 V. Przez kolektor tego tranzystora płynie prąd 100 mA. Jaki jest prąd bazy tego tranzystora?","","1 mA","5 mA","20 mA",153,0
-"154","W której klasie wzmacniacz telegraficzny ma najwyższą sprawność?","","w klasie A","w klasie AB","w klasie C",154,0
-"155","Mamy dwa kondensatory o pojemności jeden 4,7 nF a drugi 300 pF. Jak należy je połączyć by uzyskać pojemność 5000 pF?","","szeregowo","równolegle","nie da się z nich złożyć 5000 pF",155,0
-"156","W układzie były trzy kondensatory po 30 µF połączone szeregowo . Każdy z nich ma napięcie pracy 100V. Czy możemy je zastąpić jednym kondensatorem 10 µF, jeśli tak, to jakie musi mieć napięcie pracy?","","nie możemy","możemy stosując kondensator na napięcie 100 V","możemy, stosując kondensator na napięcie 300 V",156,0
-"157","Dwie indukcyjności nie sprzężone mają 30 µH i 60 µH. Ile wynosi indukcyjność zastępcza przy połączeniu szeregowym tych indukcyjności?","","90 µH","20 µH","45 µH",157,0
-"158","124. Dwa oporniki 1 kΩ połączone są w szereg i dołączone do napięcia 200 V. Jaki jest spadek napięcia na każdym z tych oporników?","","50 V","100 V","200 V",158,0
-"159","Obwód rezonansowy równoległy LC w punkcie rezonansu przedstawia impedancję:","","rzeczywistą omową","reaktancję pojemnościową","reaktancję indukcyjną",159,0
-"160","Mamy obwód rezonansowy o częstotliwości 3,5 MHz. W jego skład wchodzi pojemność C = 400 pF. Jaką pojemność należy dołączyć zamiast C, by przestroić obwód na 7 MHz?","","200 pF","100 pF","57 pF",160,0
-"161","Obwód rezonansowy na częstotliwość 14 MHz ma dobroć Q=100. Jaka jest szerokość pasma tego obwodu rezonansowego?","","280 kHz","14 kHz","140 kHz",161,0
-"162","Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?","A_1_162.png","prostownik dwupołówkowy","prostownik jednopołówkowy","prostownik mostkowy dwupołówkowy",162,0
-"163","Na wyjściu transformatora sieciowego jest napięcie skuteczne = 350 V. Czy w prostowniku jednopołówkowym można użyć diody wytrzymującej wstecznie 400 V?","","tak","nie","tak, ale z opornikiem w szereg",163,0
-"164","Napięcie na wyjściu zasilacza nieobciążonego z filtrem pojemnościowym, wynosi 25 V. Jakie jest napięcie Usk transformatora zasilającego diody?","","25 V","17,7 V","20 V",164,0
-"165","Wzmacniacz posiada wzmocnienie napięciowe 10 razy. Wyraź to wzmocnienie w decybelach (dB)","","10 dB","20 dB","40 dB",165,0
-"166","Wzmacniacz wysokiej częstotliwości obciążony obwodem rezonansowym jest:","","wzmacniaczem selektywnym","wzmacniaczem szerokopasmowym","wzmacniaczem akustycznym",166,0
-"167","W tranzystorowym wzmacniaczu mocy który element jest niezbędny aby nie generować zakłóceń harmonicznych?","","filtr dolnoprzepustowy","przełącznik nadawanie-odbiór","układ dopasowania bazy tranzystora",167,0
-"168","Na rysunku przedstawiono schemat detektora diodowego. Jaką rolę spełnia w nim kondensator C1?","A_1_168.png","jest kondensatorem filtrującym prądy w.cz.","poprawia odtwarzanie wysokich tonów","chroni słuchawki przed uszkodzeniem  ",168,0
-"169","Dlaczego do detekcji sygnałów telegrafii CW używamy detektora mnożącego i pomocniczego generatora BFO?","","bo sygnał CW jest przerywany","musimy wytworzyć słyszalne dudnienia z niemodulowanym sygnałem CW","bo sygnał CW jest słaby",169,0
-"170","Aby czytelnie odebrać sygnał SSB, to przy odbiorze dolnej wstęgi (LSB) sygnał odtwarzający falę nośną powinien być:","","poniżej wstęgi LSB","powyżej wstęgi LSB","w środku LSB",170,0
-"171","Czy dyskryminator sygnału FM powinien reagować na modulację amplitudy sygnału FM?","","nie","tak","nie ma to znaczenia",171,0
-"172","Warunkiem wzbudzenia się generatora z obwodem rezonansowym jest:","","zastosowanie obwodu rezonansu szeregowego","spełnienie warunku amplitudy i fazy","zastosowanie ujemnego sprzężenia zwrotnego",172,0
-"173","Generator TCXO wysoką stabilność zawdzięcza:","","zastosowaniu specjalnych układów korygujących częstotliwość","docięciu kryształu kwarcu z dokładnością do femtometrów","stabilizacji temperatury oscylatora",173,0
+"149","Tolerancja wykonania opornika 1 kΩ wynosi 5 %. W jakich granicach zawiera się jego oporność?","","od 0,9 do 1,1 kΩ","od 0,98 do 1,02 kΩ","od 950 om do 1050 Ω",113,1
+"150","Spadek napięcia na oporniku wynosi 100 V, przy prądzie 10 mA. Opornik jakiej mocy zastosujemy w tym miejscu?","","10 W","1 W","0,5 W",114,1
+"151","Kondensator mikowy ma pojemność 6800 pF, i napięcie pracy 500V. Czy można go zastosować w miejsce kondensatora 6,8 nF o napięciu pracy 250 V?","","tak, można","nie można","można, ale potrzebne są dwa takie kondensatory",115,1
+"152","W obwodzie prądu zmiennego przy tej samej częstotliwości zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszyła się reaktancja Xc?","","2 razy","100 razy","10 razy",116,1
+"153","Tranzystor krzemowy ma wzmocnienie prądowe β = 100. Napięcie zasilania wynosi 5 V. Przez kolektor tego tranzystora płynie prąd 100 mA. Jaki jest prąd bazy tego tranzystora?","","1 mA","5 mA","20 mA",118,1
+"154","W której klasie wzmacniacz telegraficzny ma najwyższą sprawność?","","w klasie A","w klasie AB","w klasie C",120,1
+"155","Mamy dwa kondensatory o pojemności jeden 4,7 nF a drugi 300 pF. Jak należy je połączyć by uzyskać pojemność 5000 pF?","","szeregowo","równolegle","nie da się z nich złożyć 5000 pF",121,1
+"156","W układzie były trzy kondensatory po 30 µF połączone szeregowo . Każdy z nich ma napięcie pracy 100V. Czy możemy je zastąpić jednym kondensatorem 10 µF, jeśli tak, to jakie musi mieć napięcie pracy?","","nie możemy","możemy stosując kondensator na napięcie 100 V","możemy, stosując kondensator na napięcie 300 V","",0
+"157","Dwie indukcyjności nie sprzężone mają 30 µH i 60 µH. Ile wynosi indukcyjność zastępcza przy połączeniu szeregowym tych indukcyjności?","","90 µH","20 µH","45 µH",123,1
+"158","124. Dwa oporniki 1 kΩ połączone są w szereg i dołączone do napięcia 200 V. Jaki jest spadek napięcia na każdym z tych oporników?","","50 V","100 V","200 V",124,1
+"159","Obwód rezonansowy równoległy LC w punkcie rezonansu przedstawia impedancję:","","rzeczywistą omową","reaktancję pojemnościową","reaktancję indukcyjną",125,1
+"160","Mamy obwód rezonansowy o częstotliwości 3,5 MHz. W jego skład wchodzi pojemność C = 400 pF. Jaką pojemność należy dołączyć zamiast C, by przestroić obwód na 7 MHz?","","200 pF","100 pF","57 pF",126,1
+"161","Obwód rezonansowy na częstotliwość 14 MHz ma dobroć Q=100. Jaka jest szerokość pasma tego obwodu rezonansowego?","","280 kHz","14 kHz","140 kHz","",0
+"162","Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?","A_1_162.png","prostownik dwupołówkowy","prostownik jednopołówkowy","prostownik mostkowy dwupołówkowy",129,1
+"163","Na wyjściu transformatora sieciowego jest napięcie skuteczne = 350 V. Czy w prostowniku jednopołówkowym można użyć diody wytrzymującej wstecznie 400 V?","","tak","nie","tak, ale z opornikiem w szereg",130,1
+"164","Napięcie na wyjściu zasilacza nieobciążonego z filtrem pojemnościowym, wynosi 25 V. Jakie jest napięcie Usk transformatora zasilającego diody?","","25 V","17,7 V","20 V",131,1
+"165","Wzmacniacz posiada wzmocnienie napięciowe 10 razy. Wyraź to wzmocnienie w decybelach (dB)","","10 dB","20 dB","40 dB",132,1
+"166","Wzmacniacz wysokiej częstotliwości obciążony obwodem rezonansowym jest:","","wzmacniaczem selektywnym","wzmacniaczem szerokopasmowym","wzmacniaczem akustycznym",133,1
+"167","W tranzystorowym wzmacniaczu mocy który element jest niezbędny aby nie generować zakłóceń harmonicznych?","","filtr dolnoprzepustowy","przełącznik nadawanie-odbiór","układ dopasowania bazy tranzystora",134,1
+"168","Na rysunku przedstawiono schemat detektora diodowego. Jaką rolę spełnia w nim kondensator C1?","A_1_168.png","jest kondensatorem filtrującym prądy w.cz.","poprawia odtwarzanie wysokich tonów","chroni słuchawki przed uszkodzeniem  ",135,1
+"169","Dlaczego do detekcji sygnałów telegrafii CW używamy detektora mnożącego i pomocniczego generatora BFO?","","bo sygnał CW jest przerywany","musimy wytworzyć słyszalne dudnienia z niemodulowanym sygnałem CW","bo sygnał CW jest słaby",136,1
+"170","Aby czytelnie odebrać sygnał SSB, to przy odbiorze dolnej wstęgi (LSB) sygnał odtwarzający falę nośną powinien być:","","poniżej wstęgi LSB","powyżej wstęgi LSB","w środku LSB",137,1
+"171","Czy dyskryminator sygnału FM powinien reagować na modulację amplitudy sygnału FM?","","nie","tak","nie ma to znaczenia",138,1
+"172","Warunkiem wzbudzenia się generatora z obwodem rezonansowym jest:","","zastosowanie obwodu rezonansu szeregowego","spełnienie warunku amplitudy i fazy","zastosowanie ujemnego sprzężenia zwrotnego",139,1
+"173","Generator TCXO wysoką stabilność zawdzięcza:","","zastosowaniu specjalnych układów korygujących częstotliwość","docięciu kryształu kwarcu z dokładnością do femtometrów","stabilizacji temperatury oscylatora",141,1
 "174","Bezpośrednia synteza cyfrowa (DDS) generuje przebieg przez:","","użycie przetwornika cyfrowo-analogowego ","cyfrowe przestrajanie obwodu rezonansowego ","cyfrowe sterowanie układem NE555","",0
 "175","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 2 to:","A_1_175.png","komparator fazy","dzielnik","generator wzorca",143,0
-"176","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 3 to:","A_1_176.png","dzielnik nastawny","komparator fazy","wzmacniacz błędu",176,0
-"177","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 5 to:","A_1_177.png","dzielnik wzorca","generator stabilizowany","komparator fazy",177,0
-"178","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 6 to:","A_1_178.png","komparator fazy","dzielnik nastawny","wzmacniacz błędu",178,0
-"179","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 2 to:","A_1_179.png","wzmacniacz akustyczny","mieszacz","detektor AM",179,0
+"176","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 3 to:","A_1_176.png","dzielnik nastawny","komparator fazy","wzmacniacz błędu",144,1
+"177","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 5 to:","A_1_177.png","dzielnik wzorca","generator stabilizowany","komparator fazy",145,1
+"178","Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 6 to:","A_1_178.png","komparator fazy","dzielnik nastawny","wzmacniacz błędu",146,1
+"179","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 2 to:","A_1_179.png","wzmacniacz akustyczny","mieszacz","detektor AM",149,1
 "180","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 3 to:","A_1_180.png","filtr wejściowy","wzmacniacz pośredniej cz.","heterodyna",150,0
 "181","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 4 to:","A_1_181.png","wzmacniacz akustyczny","filtr wejściowy","detektor AM",151,0
 "182","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 6 to:","A_1_182.png","filtr wejściowy","wzmacniacz akustyczny","heterodyna",152,0
 "183","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 2 to:","A_1_183.png","wzmacniacz akustyczny","I mieszacz","filtr przełączany II p.cz.  ",153,0
 "184","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 3 to:","A_1_184.png","BFO","wzmacniacz I pośredniej cz.","heterodyna",154,0
-"185","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 4 to:","A_1_185.png","wzmacniacz akustyczny","BFO","II mieszacz",185,0
-"186","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 5 to:","A_1_186.png","II heterodyna stała","wzmacniacz akustyczny","detektor AM CW SSB  ",186,0
-"187","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 6 to:","A_1_187.png","filtr przełączany II p.cz.","wzmacniacz akustyczny","II heterodyna stała",187,0
-"188","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 7 to:","A_1_188.png","BFO","wzmacniacz II pośredniej cz.","detektor AM , CW, SSB",188,0
-"189","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 8 to:","A_1_189.png","wzmacniacz akustyczny","wzmacniacz w.cz.","detektor AM, CW, SSB",189,0
+"185","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 4 to:","A_1_185.png","wzmacniacz akustyczny","BFO","II mieszacz",155,1
+"186","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 5 to:","A_1_186.png","II heterodyna stała","wzmacniacz akustyczny","detektor AM CW SSB  ",156,1
+"187","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 6 to:","A_1_187.png","filtr przełączany II p.cz.","wzmacniacz akustyczny","II heterodyna stała",157,1
+"188","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 7 to:","A_1_188.png","BFO","wzmacniacz II pośredniej cz.","detektor AM , CW, SSB",158,1
+"189","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 8 to:","A_1_189.png","wzmacniacz akustyczny","wzmacniacz w.cz.","detektor AM, CW, SSB",159,1
 "190","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 10 to:","A_1_190.png","wzmacniacz akustyczny","BFO","detektor AM, CW, SSB",160,0
 "191","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 11 to:","A_1_191.png","I heterodyna strojona","wzmacniacz akustyczny","detektor AM",161,0
 "192","Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 2 to:","A_1_192.png","wzmacniacz akustyczny","filtr wejściowy","mieszacz zrównoważony  ",162,0
@@ -200,15 +200,15 @@
 "199","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 6 to:","A_1_199.png","detektor FM","wzmacniacz akustyczny","II heterodyna stała",169,0
 "200","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 7 to:","A_1_200.png","wzmacniacz II p. cz. 455kHz","wzmacniacz akustyczny","detektor FM",170,0
 "201","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 8 to:","A_1_201.png","wzmacniacz akustyczny","blokada szumów","detektor FM",171,0
-"202","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 9 to:","A_1_202.png","wzmacniacz akustyczny","blokada szumów","II heterodyna stała",202,0
-"203","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 10 to:","A_1_203.png","I heterodyna kwarcowa","wzmacniacz akustyczny","detektor FM",203,0
+"202","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 9 to:","A_1_202.png","wzmacniacz akustyczny","blokada szumów","II heterodyna stała",172,1
+"203","Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 10 to:","A_1_203.png","I heterodyna kwarcowa","wzmacniacz akustyczny","detektor FM",173,1
 "204","Przez selektywność odbiornika rozumiemy jego:","","zdolność do wyodrębnienia pożądanego sygnału","dolny próg poziomu sygnału, który może odebrać","szum własny odbiornika",174,0
 "205","Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 1 to:","A_1_205.png","separator","wzmacniacz mocy (PA)","oscylator (VFO)",176,0
 "206","Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 2 to:","A_1_206.png","wzmacniacz mocy (PA)","oscylator (VFO)","separator",177,0
 "207","Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 3 to:","A_1_207.png","oscylator (VFO)","wzmacniacz mocy (PA)","filtr wyjściowy",178,0
-"208","Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 2 to:","A_1_208.png","wzmacniacz sterujący","separator","I powielacz x2",208,0
-"209","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 3 to:","A_1_209.png","filtr pasmowy 3,5 - 14 MHz","wzmacniacz mocy (PA)","VFO 5 - 5.,5 MHz",209,0
-"210","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 4 to:","A_1_210.png","wzmacniacz sterujący","filtr wyjściowy","wzbudnica SSB 9 MHz",210,0
+"208","Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 2 to:","A_1_208.png","wzmacniacz sterujący","separator","I powielacz x2",179,1
+"209","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 3 to:","A_1_209.png","filtr pasmowy 3,5 - 14 MHz","wzmacniacz mocy (PA)","VFO 5 - 5.,5 MHz",185,1
+"210","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 4 to:","A_1_210.png","wzmacniacz sterujący","filtr wyjściowy","wzbudnica SSB 9 MHz",186,1
 "211","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 5 to:","A_1_211.png","wzmacniacz mocy (PA)","mieszacz","oscylator (VFO) 5 - 5,5 MHz",187,0
 "212","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 6 to:","A_1_212.png","wzmacniacz mocy (PA)","filtr wyjściowy","mieszacz",188,0
 "213","Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 7 to:","A_1_213.png","oscylator (VFO) 5-5,5 MHz","filtr wyjściowy","filtr pasmowy 3,5 - 14 MHz",189,0

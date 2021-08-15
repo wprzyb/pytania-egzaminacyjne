@@ -31,8 +31,10 @@ Treść uwagi:
         let entry = '<h4 id="pytanie-' + questionData.id +'">' + questionData.id + ". " + questionData.pytanie + '</h4>'
         if (questionData.zmienione !== "") {
             entry += '<span class="tag is-warning">Modyfikacja starego pytania</span>';
-        } else {
+        } else if(questionData.nowe === "1") {
             entry += '<span class="tag is-success">Nowe pytanie</span>'
+        } else {
+            entry += '<span class="tag is-info">Pytanie bez zmian</span>'
         }
 
         entry += '<div class="media"><div class="media-content"><div class="content">';
